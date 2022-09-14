@@ -306,11 +306,11 @@ body{
 @media screen and (max-width:800px) {
 
   .bg-counter{
-    height: 100vh;
+    height: 125vh;
   }
 
 .bg-message{
-  height: 180vh;
+  height: 220vh;
   padding: 20px;
 
 }
